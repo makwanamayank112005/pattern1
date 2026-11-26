@@ -435,6 +435,13 @@
 # a.color()
 
 
+# def fun(x):
+#     if(x % 4 ==0):
+#         print("Even number")
+#     else:
+#         print("Odd number")
+# fun(24)
+# fun(25)
  
 
 
