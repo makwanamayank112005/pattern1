@@ -47,12 +47,12 @@
 # show_age("ram",25)
 
 # def fun(x):
-#     if(x % 2 ==0):
+#     if(x % 4 ==0):
 #         print("Even number")
 #     else:
 #         print("Odd number")
-# fun(2)
-# fun(13)
+# fun(25)
+# fun(24)
 
 # def print_len(list):
 #     print(len(list))
@@ -435,13 +435,7 @@
 # a.color()
 
 
-# def fun(x):
-#     if(x % 4 ==0):
-#         print("Even number")
-#     else:
-#         print("Odd number")
-# fun(24)
-# fun(25)
+
  
 
 
